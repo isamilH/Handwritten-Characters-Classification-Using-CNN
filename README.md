@@ -51,9 +51,9 @@ The model achieves a high accuracy on the test dataset, with detailed metrics pr
   - Test Accuracy: Approximately 93%.
   - Precision, Recall, and F1-Score:
                  
-    accuracy                         0.9330      3360
-   macro avg     0.9357    0.9330    0.9330      3360
-weighted avg     0.9357    0.9330    0.9330      3360
+        accuracy                         0.9330      3360
+        macro avg     0.9357    0.9330    0.9330      3360
+        weighted avg     0.9357    0.9330    0.9330      3360
                             
 
 ## Future Improvements
